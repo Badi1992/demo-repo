@@ -6,4 +6,6 @@ some description!
 
  watch tutorial on youtube.
 
-# demo-repo2
+## Local Development
+
+1. Open index.html in browser.
